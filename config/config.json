@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "transfert_datascraping_disway",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "transfert_datascraping_disway",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
